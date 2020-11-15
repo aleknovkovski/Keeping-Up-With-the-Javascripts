@@ -8,7 +8,7 @@
 const shouldSayHi = true;
 
 if (shouldSayHi === true) {
-  alert('Hi there')
+  console.log('Hi there')
 }
 
 // If statement
